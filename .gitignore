@@ -59,3 +59,6 @@ gh-disc-*
 NEX_AGENT_DELIVERABLE.md
 SECURITY_HEADERS_109_SUMMARY.md
 bhos_af_*.py
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat

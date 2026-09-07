@@ -9,9 +9,9 @@
   "scripts": {
     "test:e2e": "playwright test",
     "icons": "node scripts/generate-icons.mjs",
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "dev": "node api.js && next dev",
+    "build": "node api.js && next build",
+    "start": "node api.js && next start",
     "clean": "rimraf .next coverage tsconfig.tsbuildinfo",
     "format": "prettier --write . --ignore-unknown",
     "lint": "eslint .",
