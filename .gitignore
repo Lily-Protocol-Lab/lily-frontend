@@ -40,7 +40,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
-.env*
 !.env.example
 
 # vercel
@@ -59,3 +58,4 @@ gh-disc-*
 NEX_AGENT_DELIVERABLE.md
 SECURITY_HEADERS_109_SUMMARY.md
 bhos_af_*.py
+config.bat
