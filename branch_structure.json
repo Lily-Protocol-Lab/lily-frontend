@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/npm_and_yarn/eslint-10.10.0",
+    "dependabot/npm_and_yarn/eslint-config-next-16.3.4",
+    "dependabot/npm_and_yarn/eslint-plugin-storybook-10.6.0",
+    "dependabot/npm_and_yarn/multi-7f19880bf6",
+    "dependabot/npm_and_yarn/multi-de36fa8f59",
+    "dependabot/npm_and_yarn/typescript-7.0.2",
+    "dependabot/npm_and_yarn/vitest-5.0.0",
+    "main"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/eslint-10.10.0": "main",
+    "dependabot/npm_and_yarn/eslint-config-next-16.3.4": "main",
+    "dependabot/npm_and_yarn/eslint-plugin-storybook-10.6.0": "main",
+    "dependabot/npm_and_yarn/multi-7f19880bf6": "main",
+    "dependabot/npm_and_yarn/multi-de36fa8f59": "main",
+    "dependabot/npm_and_yarn/typescript-7.0.2": "main",
+    "dependabot/npm_and_yarn/vitest-5.0.0": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "dependabot/npm_and_yarn/eslint-10.10.0",
+    "dependabot/npm_and_yarn/eslint-config-next-16.3.4",
+    "dependabot/npm_and_yarn/eslint-plugin-storybook-10.6.0",
+    "dependabot/npm_and_yarn/multi-7f19880bf6",
+    "dependabot/npm_and_yarn/multi-de36fa8f59",
+    "dependabot/npm_and_yarn/typescript-7.0.2",
+    "dependabot/npm_and_yarn/vitest-5.0.0"
+  ]
+}
